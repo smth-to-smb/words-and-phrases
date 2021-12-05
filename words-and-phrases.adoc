@@ -1,121 +1,239 @@
 in the field - в этой области
+
 when done
+
 tuneup - регулировка
+
 Limited to - the number
+
 Limited by - the external force
+
 populate data
+
 counterpart
+
 simply put
+
 eavesdrop
+
 List of fields which will be populated when parsing the input data
+
 best understood
+
 in this regard
+
 at later
+
 as we have seen
+
 portions, for example portions of content
+
 implication - предпосылка
+
 can be thought of as ...
+
 violate a rule
+
 this need can arise instead of it may be needed - потребность может возникать
+
 commonly recognized term
+
 failover - Sending logs over TCP with Failover
+
 multiplex data - in <<om_tcp_config_listen,Listen>> mode, this module accepts
+
 client connections and multiplexes data to all connected clients.
+
 drop-in replacement - This module is very similar to the om_udp module and can be used as a drop-in replacement.
+
 in a single module instance, not within
+
 considerations instead of limitations
+
 regardless - вне зависимости от
+
 for use by instead of for using by
+
 one or more instead of one or several
+
 ordeal
+
 which is also true - что также справедливо
+
 expressed in the following way - выражено следующим образом
+
 coupled with
+
 natively supports
+
 to avoid ambiguity
+
 explicitly mention
-connected = associated or commonly associated. The latter is better because it's more applicable. And connected may need a presence of a physical connection.
+
+connected = associated or commonly associated. The latter is better because it's more applicable. And connected may need
+a presence of a physical connection.
+
 double-click is a verb, while double click is a noun. Source: https://www.merriam-webster.com/dictionary/double-click)
+
 ultimate authority - высшая власть
+
 basic things = the basics
+
 on a network
+
 in a way,
+
 underlying
+
 In the upper-right corner
+
 run on Windows
+
 two-part procedure
+
 While logged in to Google
+
 drop-down menu
+
 In the dialog window
+
 file stored in the same directory
+
 same directory as the input add-on file
+
 relative path name / absolute path name
+
 authentication with the Google Cloud account
+
 to be supplied should be replaced with to contain
+
 Failing to do something
+
 reconcile differences - выявить различия
+
 pertinent = suitable
+
 set in - начинаться
+
 explained in this section
+
 once more = again
+
 alternately - поочерёдно
+
 the steps below = these steps
+
 by columns - поколоночно
+
 proof of concept - апробация концепции
+
 relevant = pertinent
+
 related = Es besteht ein Zusammenhang zwischen den beiden.
+
 once the configuration is complete
+
 per each = by. For example, by processor (для каждого процессора)
+
 view the input traffic
+
 on the canvas
+
 Only human beings can cover. Or books can do it, articles, how-tos, but not topics.
+
 A book could cover a topic on technology.
+
 A topic cannot cover a topic.
+
 Apache NiFi runs within a JVM on a host connected to your local network.
+
 A triangle is comprised of three connected lines. Comprised is used in the passive voice.
+
 data and record are wider than a message or event
+
 Once received instead of after collecting
+
 right-click
+
 is the basis for the following example
+
 defined by the `COR_RECSTAT_CSV_REGEX` expression
+
 once the configuration is complete
+
 In the *Configure Processor* dialog window under the *SETTINGS* tab,
+
 which is offered as service within Azure
+
 is a best practice
+
 After this, the solution should be functional.
+
 crash-safe
+
 ongoing - непрерывный
+
 inherent - присущий, свойственный
+
 slice and dice - разобрать по крупицам
+
 resilient - отказоустойчивый
+
 against should not be used in the UI context.
+
 When successfully connected,
+
 {productName} will capture a syslog message similar to this.
+
 Not divisible by 2 - не делится на 2
+
 divided into six part
+
 consists of a client request followed by a server response.
+
 textual form is better to be TXT (unstructured)
+
 on startup instead of after the start
+
 pieces of data SHOULD NOT BE USED
+
 the result word is better not to use. And use "after + gerund" instead
+
 match a string to a regular expression
+
 compare a string to a regular expression
+
 each can be used only with a singular noun
+
 Once the pre-configured size limit of the log file has been reached
+
 This log entry is typical for counters logs.
-provide access to the folder - some readers might start thinking about filesystem permissions. Access is a word which should attract more attention
+
+provide access to the folder - some readers might start thinking about filesystem permissions. Access is a word which
+should attract more attention
+
 compares each message to `OPCTRC_REGEX`
+
 filename should be written together, not `file name`
+
 pieces of data is not applicable to software. Data fields should be used instead
+
 Snippet captions are already self-explanatory, and no introductory text is needed
+
 The fourth part handles input--the bulk of the configuration--by defining
 separate <<im_file,im_file>> module instances, one for each of the nine log
 sources.
+
 highlight - ярко освещать, выпячивать, акцентировать
+
 continued - когда контент продолжается на следующей странице
+
 in UTC time
+
 Position index starts with 1.
+
 In the context of web-based applications
+
 A wizard is a help feature that can be invoked via a graphical element
 
 If you don't know which preposition to use with a noun, simply use using:
@@ -138,72 +256,132 @@ When accepting is not suitable, capturing can be used instead.
 Modules are loaded and procedures are called.
 
 In the window, not on the window.
+
 input parameters
+
 workload
+
 when it comes to - что касается
+
 first and foremost
+
 As its name suggests
+
 read files IN `/var/log` directory - not FROM
+
 restrict inbound connections
+
 connectivity is the general word for all network connection stuff
+
 Access control is the role-based access in web applications. This is not related to networks.
+
 This is no longer the case - это больше не так.
+
 indicate - just a word to use in the documentation
+
 impending failure - неминуемый отказ
+
 resource intensive - ресурсоёмкий, потребляющий много ресурсов (о софте)
+
 data transmission - передача данных
+
 deny access and terminate(drop) connection
+
 present a certificate which cannot be verified - предъявлять сертификат который не может быть проверен
+
 service configured without encryption - сервис настроенный без шифрования
+
 mapped as follows
+
 shorthand - сокращённая форма
+
 list of several options
+
 more than one option
+
 scalable vector icon
+
 items should not be used in GUI. Options should be used instead
+
 network packet captures
+
+
 troubleshoot the problem
+
 shared cipher
+
 exhibit the following data patterns
+
 a series - five series
+
 a species - five species
+
 a means - five means
+
 a dozen - five dozen
+
 a headquarters - two headquarters
+
 in ascending order - в восходящем порядке
+
 A `sis` ending always gets `ses` in case of plurals (emphasis - emphases, basis - bases)
+
 criterion - criteria, maximum - maxima, medium - media, stratum - strata
+
 I need to create a syllabus of this course and publish it in GitHub
+
 fault-tolerant - устойчивый к отказам
+
 security relevant - относящийся к обеспечению защиты
+
 latency - задержка в ответе на запрос к бд
+
 to log an error.
+
 allude - ссылаться на что-то
+
 across - между разными форматами, например копировать
+
 over a period of time
+
 is the way to go - то что нужно
+
 around the corner - не за горами
+
 content-wise - по содержанию
+
 to be quick to follow - быстро наступать
+
 system level - уровень системы, но system-level - системного уровня
+
 pose a problem - представлять проблему
+
 fit in - быть использованным, вписывать, использовать
+
 data transformation instead of transformation
+
 the given name - заданное имя
+
 SIEM solution instead of just SIEM
+
 Processed by NXLog, not with NXLog
+
 For instructions on how ...
 sample test message is a message which should demonstrate a functionality
 For the sake of brevity, this guide will refer to Microsoft Defender for
 Identity as *MDI*.
+
 https://ludwig.guru/ - good website about standard phrases
+
 https://wordagents.com/comma-before-such-as/ - using such as with the comma
 In addition should be additional to something. If there is not addition, also can be used instead.
 Good document about using as: https://gitlab.com/nxlog/documentation/uploads/74cf86e27ef00be94a874324e61ab5c2/as_-_used_as_a_conjunction.pdf
 
 Because is less ambiguous compared to since. But as is not good for such cases.
+
 Exposing a single relay agent devoid of any sensitive
 data to the internet is a much better approach for minimizing risk.
+
 Server that is a member of the domain.
 Or:
 
@@ -212,27 +390,48 @@ Or:
 ... that is logged on to the domain.
 
 events from somewhere
+
 in CEF format, in JSON format
+
 collect means to store after receiving. And receive means to receive in a transport way
+
 log entries = events
+
 in the domain, but on the domain controller
+
 many different
+
 Commands are executed under the context of the user running NXLog
+
 command-line tool
+
 it is advised
+
 as of version 2.4 - на версии 2.4
+
 enclosed in double quotes
+
 defined in angle brackets
+
 as opposed to is not separated with a comma
+
 in such case (not `in such a case`)
+
 will be processed by {productName} as the asterisk
+
 Based on the naming pattern, both `log1.txt` and `log_new.txt` will be read.
+
 Application logs share the lifetime of the pod and are removed once a pod is deleted.
+
 NXLog can integrate with Kubernetes to collect logs from containerized applications, as well as collect Kubernetes system and audit logs.
+
 NXLog provides a Docker package which can be used to easily deploy NXLog Enterprise Edition in a container.
 By default, NXLog will be configured to run with the nxlog account.
+
 Those Pods are garbage collected.
+
 alongside the application - непосредственно рядом с приложением
+
 NXLog can be deployed in one of two ways to collect these events
 
 The second of these tools to perform a Google search for the phrase of interest, enclosed in quotation marks  (single or double), to show just how many pages Google has found and indexed that use this exact same phrase. If that number is less than 250,000, I am reluctant to use the phrase. Performing a search without the quotation marks is too broad, and for the purpose at hand, a complete waste of time.
@@ -240,13 +439,21 @@ The second of these tools to perform a Google search for the phrase of interest,
 I need to read all issues through and record all thoughts. Maybe, I need to write
 down all situations with their explanation and what was wrong there.
 I need to check each word from the vocabulary above and how they are used.
+
 Usage of the `numbers` word means usage in a plural form.
+
 well-understood - широко известный
+
 fulfill a condition - выполнять условие
+
 there are a lot of conditions to be met.
+
 capability can be replaced with functionality. Functionality is something of a higher level compared to capabilities.
+
 activities need to be replaced with activity, in singular
+
 Using NXLog with MDI is better than Using NXLog to collect data
+
 Saving and retrieving log data from ClickHouse using NXLog is better than Using NXLog to save and read log data from ClickHouse
 
 
