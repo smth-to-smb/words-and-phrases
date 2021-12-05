@@ -1,0 +1,472 @@
+in the field - в этой области
+when done
+tuneup - регулировка
+Limited to - the number
+Limited by - the external force
+populate data
+counterpart
+simply put
+eavesdrop
+List of fields which will be populated when parsing the input data
+best understood
+in this regard
+at later
+as we have seen
+portions, for example portions of content
+implication - предпосылка
+can be thought of as ...
+violate a rule
+this need can arise instead of it may be needed - потребность может возникать
+commonly recognized term
+failover - Sending logs over TCP with Failover
+multiplex data - in <<om_tcp_config_listen,Listen>> mode, this module accepts
+client connections and multiplexes data to all connected clients.
+drop-in replacement - This module is very similar to the om_udp module and can be used as a drop-in replacement.
+in a single module instance, not within
+considerations instead of limitations
+regardless - вне зависимости от
+for use by instead of for using by
+one or more instead of one or several
+ordeal
+which is also true - что также справедливо
+expressed in the following way - выражено следующим образом
+coupled with
+natively supports
+to avoid ambiguity
+explicitly mention
+connected = associated or commonly associated. The latter is better because it's more applicable. And connected may need a presence of a physical connection.
+double-click is a verb, while double click is a noun. Source: https://www.merriam-webster.com/dictionary/double-click)
+ultimate authority - высшая власть
+basic things = the basics
+on a network
+in a way,
+underlying
+In the upper-right corner
+run on Windows
+two-part procedure
+While logged in to Google
+drop-down menu
+In the dialog window
+file stored in the same directory
+same directory as the input add-on file
+relative path name / absolute path name
+authentication with the Google Cloud account
+to be supplied should be replaced with to contain
+Failing to do something
+reconcile differences - выявить различия
+pertinent = suitable
+set in - начинаться
+explained in this section
+once more = again
+alternately - поочерёдно
+the steps below = these steps
+by columns - поколоночно
+proof of concept - апробация концепции
+relevant = pertinent
+related = Es besteht ein Zusammenhang zwischen den beiden.
+once the configuration is complete
+per each = by. For example, by processor (для каждого процессора)
+view the input traffic
+on the canvas
+Only human beings can cover. Or books can do it, articles, how-tos, but not topics.
+A book could cover a topic on technology.
+A topic cannot cover a topic.
+Apache NiFi runs within a JVM on a host connected to your local network.
+A triangle is comprised of three connected lines. Comprised is used in the passive voice.
+data and record are wider than a message or event
+Once received instead of after collecting
+right-click
+is the basis for the following example
+defined by the `COR_RECSTAT_CSV_REGEX` expression
+once the configuration is complete
+In the *Configure Processor* dialog window under the *SETTINGS* tab,
+which is offered as service within Azure
+is a best practice
+After this, the solution should be functional.
+crash-safe
+ongoing - непрерывный
+inherent - присущий, свойственный
+slice and dice - разобрать по крупицам
+resilient - отказоустойчивый
+against should not be used in the UI context.
+When successfully connected,
+{productName} will capture a syslog message similar to this.
+Not divisible by 2 - не делится на 2
+divided into six part
+consists of a client request followed by a server response.
+textual form is better to be TXT (unstructured)
+on startup instead of after the start
+pieces of data SHOULD NOT BE USED
+the result word is better not to use. And use "after + gerund" instead
+match a string to a regular expression
+compare a string to a regular expression
+each can be used only with a singular noun
+Once the pre-configured size limit of the log file has been reached
+This log entry is typical for counters logs.
+provide access to the folder - some readers might start thinking about filesystem permissions. Access is a word which should attract more attention
+compares each message to `OPCTRC_REGEX`
+filename should be written together, not `file name`
+pieces of data is not applicable to software. Data fields should be used instead
+Snippet captions are already self-explanatory, and no introductory text is needed
+The fourth part handles input--the bulk of the configuration--by defining
+separate <<im_file,im_file>> module instances, one for each of the nine log
+sources.
+highlight - ярко освещать, выпячивать, акцентировать
+continued - когда контент продолжается на следующей странице
+in UTC time
+Position index starts with 1.
+In the context of web-based applications
+A wizard is a help feature that can be invoked via a graphical element
+
+If you don't know which preposition to use with a noun, simply use using:
+
+Using the **Adjust the amount of memory** slider, select the amount of memory you'd like
+to allocate to this application.
+
+
+In this example, the various configuration components needed for parsing and
+processing each type of file-based log source are combined into a single
+configuration for the sake of convenience.
+
+
+
+Since decline is the opposite of accept, the use of accept implies an act of selecting or culling, like we are telling MDI we decided after some deliberation to grant it permission to send us data.
+Consider: Only the best applicants are accepted by elite universities. The overwhelming majority are declined.
+
+When accepting is not suitable, capturing can be used instead.
+
+Modules are loaded and procedures are called.
+
+In the window, not on the window.
+input parameters
+workload
+when it comes to - что касается
+first and foremost
+As its name suggests
+read files IN `/var/log` directory - not FROM
+restrict inbound connections
+connectivity is the general word for all network connection stuff
+Access control is the role-based access in web applications. This is not related to networks.
+This is no longer the case - это больше не так.
+indicate - just a word to use in the documentation
+impending failure - неминуемый отказ
+resource intensive - ресурсоёмкий, потребляющий много ресурсов (о софте)
+data transmission - передача данных
+deny access and terminate(drop) connection
+present a certificate which cannot be verified - предъявлять сертификат который не может быть проверен
+service configured without encryption - сервис настроенный без шифрования
+mapped as follows
+shorthand - сокращённая форма
+list of several options
+more than one option
+scalable vector icon
+items should not be used in GUI. Options should be used instead
+network packet captures
+troubleshoot the problem
+shared cipher
+exhibit the following data patterns
+a series - five series
+a species - five species
+a means - five means
+a dozen - five dozen
+a headquarters - two headquarters
+in ascending order - в восходящем порядке
+A `sis` ending always gets `ses` in case of plurals (emphasis - emphases, basis - bases)
+criterion - criteria, maximum - maxima, medium - media, stratum - strata
+I need to create a syllabus of this course and publish it in GitHub
+fault-tolerant - устойчивый к отказам
+security relevant - относящийся к обеспечению защиты
+latency - задержка в ответе на запрос к бд
+to log an error.
+allude - ссылаться на что-то
+across - между разными форматами, например копировать
+over a period of time
+is the way to go - то что нужно
+around the corner - не за горами
+content-wise - по содержанию
+to be quick to follow - быстро наступать
+system level - уровень системы, но system-level - системного уровня
+pose a problem - представлять проблему
+fit in - быть использованным, вписывать, использовать
+data transformation instead of transformation
+the given name - заданное имя
+SIEM solution instead of just SIEM
+Processed by NXLog, not with NXLog
+For instructions on how ...
+sample test message is a message which should demonstrate a functionality
+For the sake of brevity, this guide will refer to Microsoft Defender for
+Identity as *MDI*.
+https://ludwig.guru/ - good website about standard phrases
+https://wordagents.com/comma-before-such-as/ - using such as with the comma
+In addition should be additional to something. If there is not addition, also can be used instead.
+Good document about using as: https://gitlab.com/nxlog/documentation/uploads/74cf86e27ef00be94a874324e61ab5c2/as_-_used_as_a_conjunction.pdf
+
+Because is less ambiguous compared to since. But as is not good for such cases.
+Exposing a single relay agent devoid of any sensitive
+data to the internet is a much better approach for minimizing risk.
+Server that is a member of the domain.
+Or:
+
+... that is part of the domain.
+... that is connected to the domain.
+... that is logged on to the domain.
+
+events from somewhere
+in CEF format, in JSON format
+collect means to store after receiving. And receive means to receive in a transport way
+log entries = events
+in the domain, but on the domain controller
+many different
+Commands are executed under the context of the user running NXLog
+command-line tool
+it is advised
+as of version 2.4 - на версии 2.4
+enclosed in double quotes
+defined in angle brackets
+as opposed to is not separated with a comma
+in such case (not `in such a case`)
+will be processed by {productName} as the asterisk
+Based on the naming pattern, both `log1.txt` and `log_new.txt` will be read.
+Application logs share the lifetime of the pod and are removed once a pod is deleted.
+NXLog can integrate with Kubernetes to collect logs from containerized applications, as well as collect Kubernetes system and audit logs.
+NXLog provides a Docker package which can be used to easily deploy NXLog Enterprise Edition in a container.
+By default, NXLog will be configured to run with the nxlog account.
+Those Pods are garbage collected.
+alongside the application - непосредственно рядом с приложением
+NXLog can be deployed in one of two ways to collect these events
+
+The second of these tools to perform a Google search for the phrase of interest, enclosed in quotation marks  (single or double), to show just how many pages Google has found and indexed that use this exact same phrase. If that number is less than 250,000, I am reluctant to use the phrase. Performing a search without the quotation marks is too broad, and for the purpose at hand, a complete waste of time.
+
+I need to read all issues through and record all thoughts. Maybe, I need to write
+down all situations with their explanation and what was wrong there.
+I need to check each word from the vocabulary above and how they are used.
+Usage of the `numbers` word means usage in a plural form.
+well-understood - широко известный
+fulfill a condition - выполнять условие
+there are a lot of conditions to be met.
+capability can be replaced with functionality. Functionality is something of a higher level compared to capabilities.
+activities need to be replaced with activity, in singular
+Using NXLog with MDI is better than Using NXLog to collect data
+Saving and retrieving log data from ClickHouse using NXLog is better than Using NXLog to save and read log data from ClickHouse
+
+
+Second mentioning of anything requires the instead of a
+
+ing should be replaced with infinitives wherever possible
+
+Continuous forms should be avoided according to the simplified technical English (STE)
+
+We use it
+
+     followed by adjective + to-infinitive:
+
+It is much more common to use PyObject_SetItem() and friends
+
+It is important to realize that whether you ...
+
+For example, collecting
+data in the GELF format over TCP and UDP will be carried out using two inputs. - is a bad case
+Good cases instead:
+
+For example, you can collect GELF data two different inputs, one that uses TCP and another that uses UDP.
+
+and
+
+In this example, we will collect data in GELF format over both TCP and UDP. This will be carried out using two separate inputs.
+
+From the *Select input* dropdown list, not on the dropdown list.
+
+In this example, `GELF TCP` has been selected instead of For example, it can be `GELF TCP`.
+
+The as per phrase has a tone of a legal courtroom. As seen can be used instead of as per.
+
+
+The following example demonstrates how to forward log data to Graylog over
+This example shows how to forward log data to Graylog over
+
+The {productName} configuration below uses the <<im_systemd,im_systemd>>
+
+The {productName} configuration below uses the <<im_systemd,im_systemd>>
+
+This {productName} configuration uses the <<im_systemd,im_systemd>>
+
+In the output instance of the {productName} configuration,
+
+This is a tough choice. Here are some correct statements:
+
+An input can listen on an IP address.
+An input can listen for incoming events.
+
+But, an input cannot listen on incoming events.
+
+from below = below (or the following)
+
+spatial - пространственный
+
+The table below contains the parameters that differ between Windows
+and Linux versions of {productName} based on the default installation settings
+of their respective installation packages.
+
+.. Click *Configuration*, then click *Create Configuration* under the
+*Configurations* section.
+
+statistics = metrics
+
+ratio can be plural?
+
+From here, these should be steps. Explaining thing in a sequential order.
+
+1. To create a new dashboard, at the bottom of the page click Add Dashboard at
+2. In the Add Dashboard dialog, type the dashboard name into the Name field and specify the visibility using the Visibility dropdown list.
+
+The dashboard name should contain at least three characters. (the last sentence here is the step result, sp should be on a separate line)
+
+continue....
+
+in the UI, first goes WHERE and then goes WHAT
+
+An important note here. When specifying a step always say where you need to do
+it first and then say what you need to do. That is more logical. Notice in step
+1 I have changed the order.
+
+I can search for all usage examples from the current documentation.
+
+When to use commas
+
+1.In a series consisting of three or more elements, separate each element with a comma .
+
+Microsoft style
+
+You need a hard disk, a VGA monitor, and a mouse .
+
+Not Microsoft style
+
+You need a hard disk, an EGA or VGA monitor and a mouse .
+
+2.Use a comma following an introductory phrase .
+
+Microsoft style
+
+In Windows, you can run many programs .
+
+Not Microsoft style
+
+In Windows you can run many programs .
+
+3.If you specify a full date in midsentence, use a comma on each side of the year .
+
+Microsoft style
+
+ The February 4, 2003, issue of the New York Times reported that . . . .
+
+Not Microsoft style
+
+The February 4, 2003 issue of the New York Times reported that . . . .
+
+When not to use commas
+
+1.Do not join independent clauses with a comma unless you include a conjunction . Online documentation often has space constraints, and it may be difficult to fit in the coordinate conjunction after the comma . In these instances, separate into two sentences or use a semicolon .
+
+Microsoft style
+
+Click Options, and then click Allow Fast Saves .
+
+Click Options; then click Allow Fast Saves . (Only if space is limited .)
+
+* Rule . In sentences where two independent clauses are joined by connectors such as and, or, but,etc., put a comma at the end of the first clause.
+
+Incorrect: He walked all the way home and he shut the door.
+Correct: He walked all the way home, and he shut the door.
+
+Rule. When starting a sentence with a dependent clause, use a comma after it.
+
+Example: If you are not sure about this, let me know now.
+
+Rule. A comma is usually unnecessary when the sentence starts with an independent clause followed by a dependent clause.
+
+Example: Let me know now if you are not sure about this.
+
+Not Microsoft style
+
+Click Options, then click Allow Fast Saves .
+
+2.Do not use a comma between the verbs in a compound predicate .
+
+Microsoft style
+
+The Setup program evaluates your computer system and then copies the essential files to your hard disk .
+
+The Setup program evaluates your computer system, and then it copies the essential files to your hard disk .
+
+Not Microsoft style
+
+The Setup program evaluates your computer system, and then copies the essential files to your hard disk .
+
+3.Do not use commas in month-year formats .
+
+Microsoft style
+
+Microsoft introduced Windows 7 in October 2009 .
+
+Not Microsoft style
+
+Microsoft introduced Windows 7 in October, 2009 .
+
+If the list does not contain full sentences, Chicago style does not put punctuation at the end of list items as a rule (please see 6.124), but it allows for semicolons if the list items are complex and contain commas. This means that in some documents, some complex vertical lists may feature semicolons at the ends of items and others, less complex, may have commas or no punctuation at all. Whether the presence of a single comma in a single list item would require the addition of semicolons to render the list readable is a matter of editorial judgment, and not something that CMOS is likely to legislate.
+
+The main recommendations on the use of forms and tenses of verbs in technical writing:
+
+    ﻿Do not use:
+
+
+    Continuous Aspect ('ing' form of the verb unless it is part of a term, so it's not a verb there, it's a noun:  stealing a reference)
+    Present, Past Perfect Continuous etc. (the Past Participle with a form of the verb HAVE)
+    Passive Voice (the Past Participle of a verb with a helping verb to make a complex verb)
+
+    Use:﻿
+
+
+    the Infinitive (not -ING)
+    the Imperative (Read the information below.)
+    the Present Simple Tense
+    the Past Simple Tense
+    the Future Simple Tense
+    the Active Voice as much as possible
+    a Verb instead of a noun to describe an action where possible
+
+Present perfect should be avoided in the sentences!!!
+Always start the paragraph with the topic sentence!!!
+
+Recommendations for sentences and paragraphs.
+
+Sentences
+
+    Keep to one topic per sentence.
+    Do not omit words or use contractions to make your sentence shorter.
+    Use a vertical list for complex texts.
+    Use connecting words to join consecutive sentences that contain related thoughts.
+
+
+Sentence length
+
+    Keep sentences as short as possible (20 words maximum for procedural writing, 25 words maximum for descriptive writing).
+    Write only one instruction per sentence.
+    Write more than one instruction per sentence only when more than one action is done at the same time.
+    In an instruction, write the verb in the imperative ('command') form.
+
+
+Paragraphs
+
+    ﻿Use paragraphs to show your reader the logic of the text.
+    Each paragraph must have only one topic.
+    Always start the paragraph with the topic sentence.
+    The maximum length of a paragraph is 6 sentences. Do not use one-sentence paragraphs more than once in every 10 paragraphs.
+
+I need to collect all information about log, log entries, and log data to the single place. Also using the John's newsletter.
+And I think I need to add the definition of log and log data to the Style Guide. I need to prepare information about it in the near future.
+
+Simplified English: https://www.simplified-english.co.uk/rules-ste7.html, and http://www.asd-ste100.org/
+
+if you start a sentence with Additionally it means that the information you
+present is joined to the information you presented in the previous sentence and
+if it is, the you do not need it to be a TIP.
