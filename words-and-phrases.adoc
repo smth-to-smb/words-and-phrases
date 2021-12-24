@@ -432,6 +432,9 @@ Those Pods are garbage collected.
 
 alongside the application - непосредственно рядом с приложением
 
+on production - на проде
+in light of - в свете ...
+
 NXLog can be deployed in one of two ways to collect these events
 
 The second of these tools to perform a Google search for the phrase of interest, enclosed in quotation marks  (single or double), to show just how many pages Google has found and indexed that use this exact same phrase. If that number is less than 250,000, I am reluctant to use the phrase. Performing a search without the quotation marks is too broad, and for the purpose at hand, a complete waste of time.
