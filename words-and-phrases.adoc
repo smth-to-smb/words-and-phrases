@@ -362,6 +362,10 @@ data transformation instead of transformation
 
 the given name - заданное имя
 
+be it smth ... - неважно будет ли это ...
+
+publish to production
+
 SIEM solution instead of just SIEM
 
 Processed by NXLog, not with NXLog
