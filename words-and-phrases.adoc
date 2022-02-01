@@ -38,6 +38,10 @@ this need can arise instead of it may be needed - потребность мож�
 
 commonly recognized term
 
+can be used interchangeably
+
+
+
 failover - Sending logs over TCP with Failover
 
 multiplex data - in <<om_tcp_config_listen,Listen>> mode, this module accepts
@@ -366,6 +370,8 @@ be it smth ... - неважно будет ли это ...
 
 publish to production
 
+upload to, download from, but uploaded from your laptop to your server
+
 SIEM solution instead of just SIEM
 
 Processed by NXLog, not with NXLog
@@ -449,9 +455,38 @@ I need to check each word from the vocabulary above and how they are used.
 
 Usage of the `numbers` word means usage in a plural form.
 
+A number is an arithmetical value, an idea that quantifies, counts, ranks or calculates an arithmetical value.
+
+A numeral is a symbol that is used to indicate a number.
+
+an integer number, or an integer for simplicity - целое число 
+
 well-understood - широко известный
 
 fulfill a condition - выполнять условие
+
+effective is an adjective that means achieving a result or intended purpose in an adequate or satisfactory way.
+
+efficient is an adjective that means accomplishing a result in the best possible way while saving time and effort.
+
+When it comes to using the words effective and efficient, you want to ensure you're expressing yourself in the most accurate way. What is the biggest difference between the two? If you're stating that a goal was met in an adequate way, you'd use the word "effective."
+
+But, if you want to convey an accomplishment that also saved time, money and effort, you'd use "efficient." See below for a list of instances in which you would use these particular adjectives:
+
+    Sally's method of mopping the kitchen floor proved to be effective.
+
+    Using a pen and paper is an effective way to journal about your personal experiences.
+
+    Because of his effective presentation, the stakeholders better understood how the process worked.
+    
+    
+        Because of his efficient manner, he completed more than a day's work in just four hours.
+
+    The waitress worked efficiently to ensure the diners received their food in a timely manner.
+
+    Jerry's efficient study habits helped him memorize the reading material and leave early for the holiday break.
+
+
 
 there are a lot of conditions to be met.
 
