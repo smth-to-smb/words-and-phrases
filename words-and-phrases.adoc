@@ -6,6 +6,9 @@ Docker option is preferred over Docker parameter
 
 point to needs to be replaced to the actual action
 
+bundled - internal, always internal
+exited successfully instead of normal exit, or terminated abnormally
+
 tuneup - регулировка
 
 Limited to - the number
