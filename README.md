@@ -5,5 +5,8 @@ various technical documentation that can be used and reused.
 
 The main purpose is to make technical English better.
 
+Currently, this repository contains the database of words and Python scripts for adding these words into the database. 
+
+
 
 
